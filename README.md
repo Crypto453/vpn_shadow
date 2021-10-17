@@ -5,3 +5,5 @@ se las dejo aqui.
 comandos
 solo debes poner un ./<archivo>
 para iniciar la herramienta
+  se me olvido mencionar que deben darle permisos de ejecutable al script con sudo chmod +x <install o vpnshadow>
+
